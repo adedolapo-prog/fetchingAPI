@@ -1,0 +1,18 @@
+body {
+  background-color: cadetblue;
+}
+
+.container {
+  text-align: center;
+  margin-top: 200px;
+}
+
+h2 {
+  font-size: 50px;
+  font-weight: 5500;
+}
+
+p {
+  font-size: larger;
+  font-weight: 500;
+}
